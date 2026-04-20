@@ -5,8 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="639e3bd5-2780-4bf8-aa03-5ea5a3105fc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/dashboard/StatusDropdown.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/dashboard/ations.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/dashboard/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/thank-you/ThankYou.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/thank-you/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/thank-you/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PhonePreview.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/emails/OrderReceivedEmail.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/table.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/api/webhooks/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/webhooks/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/configure/design/DesignConfigurator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/configure/design/DesignConfigurator.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/configure/preview/DesignPreview.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/configure/preview/DesignPreview.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/utils.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,28 +51,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
-    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Users/ACER/WebstormProjects/case_shop/public/users&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.Next.js: server-side.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\Users\\ACER\\WebstormProjects\\case_shop\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/Users/ACER/WebstormProjects/case_shop/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.Next.js: server-side.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "D:\\Users\\ACER\\WebstormProjects\\case_shop\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "D:\\Users\\ACER\\WebstormProjects\\case_shop\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -64,9 +85,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\ACER\WebstormProjects\case_shop\public" />
       <recent name="D:\Users\ACER\WebstormProjects\case_shop\public\users" />
       <recent name="D:\Users\ACER\WebstormProjects\case_shop\public\testimonials" />
-      <recent name="D:\Users\ACER\WebstormProjects\case_shop\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Users\ACER\WebstormProjects\case_shop\src\app\api" />
@@ -152,7 +173,18 @@
       <workItem from="1771774627133" duration="7962000" />
       <workItem from="1771850446404" duration="1740000" />
       <workItem from="1771935197526" duration="13260000" />
-      <workItem from="1772018889200" duration="15944000" />
+      <workItem from="1772018889200" duration="18230000" />
+      <workItem from="1772138399096" duration="3845000" />
+      <workItem from="1772215844134" duration="5452000" />
+      <workItem from="1772309303106" duration="8163000" />
+      <workItem from="1772369610061" duration="16835000" />
+      <workItem from="1772492363384" duration="590000" />
+      <workItem from="1772545865686" duration="6107000" />
+      <workItem from="1772660932185" duration="592000" />
+      <workItem from="1772733778102" duration="1735000" />
+      <workItem from="1772746629482" duration="1334000" />
+      <workItem from="1772999072385" duration="1190000" />
+      <workItem from="1776723694499" duration="2052000" />
     </task>
     <servers />
   </component>
